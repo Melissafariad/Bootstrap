@@ -1,0 +1,106 @@
+body {
+    padding: 0 !important;
+    margin: 0 !important;
+    overflow-x: hidden;
+}
+
+.fundo-menu {
+    background-color: #994b5a;
+    font-size: larger;
+}
+
+.nav-custom {
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.flex-item-1 {
+    width: 33.33%;
+}
+
+.item {
+    margin: 0px;
+    padding: 0;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.logo {
+    width: 20%;
+}
+
+.fundo {
+    background: #e6e6e6;
+}
+
+.sem-margem {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+#linha-vertical {
+    margin-top: 3%;
+    margin-right: 97%;
+    height: 30px;
+    border-right: 3px solid red;
+}
+
+.retoque {
+    font-size: larger;
+    margin-left: 4%;
+    margin-top: -2%;
+}
+
+.borda-0 {
+    border: 0;
+
+}
+
+.card-size {
+    width: 250px;
+    height: 250px;
+}
+
+.sobre-texto{
+    background-color: #994b5a;
+    margin-left: 25%;
+    margin-top: 6.5%;
+    margin-bottom: 6.5%;
+}
+
+.legenda{
+    font-family: 'Times New Roman', Times, serif;
+    color: #994b5a;
+}
+
+img{
+    width: 33%;
+    border-radius: 10%;
+    margin-top: 3%;
+    margin-bottom: 0%;
+    margin-left: 5%;
+}
+
+.meio{
+    margin-left: 25%;
+    margin-top: -30%;
+    margin-bottom: 12.5%;
+}
+
+.cadastr{
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+
+.cadastro{
+    margin-top: 12.5%;
+    margin-bottom: 12.5%;
+}
